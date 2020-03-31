@@ -38,10 +38,11 @@ about:debugging
 
 load file :" manifest.json"
 
-3) get logs in logs/logs.txt 
+3) get logs in logs/ip-inputs.txt
 
-
-
+for exemple logs/127.0.0.1-inputs.txt
+ 
+http://127.0.0.1/bot/logs/127.0.0.1-inputs.txt
 
 
 
