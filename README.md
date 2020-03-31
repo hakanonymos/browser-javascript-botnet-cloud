@@ -8,12 +8,12 @@ javascript botnet browser V3 based one Cloud 9 Botnet and my botnet browser chro
 
 ![3](https://user-images.githubusercontent.com/30985149/77988229-b49d4500-7313-11ea-833f-f1bf10c15be5.PNG)
 
-# Original projet
+# Original project
 my bot Card number
 https://github.com/hakanonymos/botnet-browser-chrome   
 
 Cloud 9 botnet
 https://github.com/Antonio24/Cloud9
- this projet has a probleme, i have fixed some probleme 
+ this project has a probleme, i have fixed some probleme 
 
 
