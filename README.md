@@ -43,7 +43,7 @@ http://127.0.0.1/bot/logs/127.0.0.1-inputs.txt
 
 https://www.youtube.com/watch?v=65ORpeeGWps&feature=youtu.be
 
-#Contatc infos
+# Contact infos
 
 https://www.instagram.com/hakanonymos
 
