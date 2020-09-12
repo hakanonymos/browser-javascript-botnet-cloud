@@ -37,25 +37,22 @@ for exemple logs/127.0.0.1-inputs.txt
 http://127.0.0.1/bot/logs/127.0.0.1-inputs.txt
 
 
+Original project
+
+my bot Card number
+Cloud 9 botnet
+
 
 # New Version
 https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
 
 
-# Contact infos
-
-https://www.instagram.com/hakanonymos
+Contact infos
 
 hakanonymos@hotmail.com
 
-ICQ : hakanonymos
 
-# Original project
-my bot Card number
-https://github.com/hakanonymos/botnet-browser-chrome   
 
-Cloud 9 botnet
-https://github.com/Antonio24/Cloud9
  
 
 
